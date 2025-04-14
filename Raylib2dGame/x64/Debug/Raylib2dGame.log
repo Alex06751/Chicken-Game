@@ -1,0 +1,20 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(534,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (JerryGame.vcxproj, Raylib2dGame.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+C:\Users\Alex\source\repos\Raylib2dGame\Raylib2dGame\main.cpp(252,10): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Alex\source\repos\Raylib2dGame\Raylib2dGame\main.cpp(253,10): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Alex\source\repos\Raylib2dGame\Raylib2dGame\main.cpp(392,14): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Alex\source\repos\Raylib2dGame\Raylib2dGame\main.cpp(393,14): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Alex\source\repos\Raylib2dGame\Raylib2dGame\main.cpp(397,96): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Alex\source\repos\Raylib2dGame\Raylib2dGame\main.cpp(397,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Alex\source\repos\Raylib2dGame\Raylib2dGame\main.cpp(397,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Alex\source\repos\Raylib2dGame\Raylib2dGame\main.cpp(397,18): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Alex\source\repos\Raylib2dGame\Raylib2dGame\main.cpp(398,99): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Alex\source\repos\Raylib2dGame\Raylib2dGame\main.cpp(398,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Alex\source\repos\Raylib2dGame\Raylib2dGame\main.cpp(398,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Alex\source\repos\Raylib2dGame\Raylib2dGame\main.cpp(398,18): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Alex\source\repos\Raylib2dGame\Raylib2dGame\main.cpp(532,41): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Alex\source\repos\Raylib2dGame\Raylib2dGame\main.cpp(532,24): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Alex\source\repos\Raylib2dGame\Raylib2dGame\main.cpp(576,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Raylib2dGame.vcxproj -> C:\Users\Alex\source\repos\Raylib2dGame\x64\Debug\ChickenGame.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
